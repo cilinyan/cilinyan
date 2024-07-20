@@ -8,7 +8,7 @@ My research interests lie in the deep learning, computer vision, and multimodal.
 
 ### 📎 Homepages
 
-- Personal Pages: https://cilinyan.github.io (updated recently🔥)
+- Personal Pages: https://cilinyan.github.io 
 - Google Scholar: https://scholar.google.com/citations?user=lI6xh5EAAAAJ
 
 ### 🔥 News
