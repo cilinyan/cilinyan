@@ -2,9 +2,13 @@
 
 # 👋 About Me
 
-I am a M.S. student at [Beihang University](https://www.buaa.edu.cn/), advised by Prof. [Guoliang Kang](https://scholar.google.com/citations?user=P24HCsgAAAAJ). Before that, I received my B.S. degree at [Jilin University](https://jlu.edu.cn/).
+I work at Xiaohongshu now in Beijing.
+
+I graduated from [Beihang University](https://www.buaa.edu.cn/) with a master’s degree, advised by Prof. [Guoliang Kang](https://scholar.google.com/citations?user=P24HCsgAAAAJ). Before that, I received my B.S. degree at [Jilin University](https://jlu.edu.cn/).
 
 My research interests lie in the deep learning, computer vision, and multimodal.
+
+
 
 ### 📎 Homepages
 
@@ -12,8 +16,14 @@ My research interests lie in the deep learning, computer vision, and multimodal.
 - Google Scholar: https://scholar.google.com/citations?user=lI6xh5EAAAAJ
 
 ### 🔥 News
-- *2024.07*: A paper is accepted by **<font color="red">ECCV</font>** in 2024.
-- *2024.06*: A paper is accepted by **<font color="red">Neurocomputing</font>** (**IF: 6.0**) in 2024.
-- *2024.06*: Two paper is accepted by **<font color="red">IJCV</font>** (**IF: 11.6**) in 2024.
-- *2023.07*: A paper is accepted by **<font color="red">ICCV</font>** (**Oral**) in 2023.
+- *2025.11*: 1 paper is accepted by **<font color="red">AAAI</font>** 2026.
+- *2025.10*: 1 paper is accepted by **<font color="red">TCSVT</font>**.
+- *2025.07*: 1 paper is accepted by **<font color="red">RecSys</font>**  2025.
+- *2025.06*: 1 paper is accepted by **<font color="red">ICCV</font>** 2025.
+- *2025.05*: 1 paper is accepted by **<font color="red">ACL</font>** 2025 (Main).
+- *2024.08*: 1 paper is accepted by **<font color="red">TGRS</font>**.
+- *2024.07*: 1 paper is accepted by **<font color="red">ECCV</font>** 2024.
+- *2024.06*: 1 paper is accepted by **<font color="red">Neurocomputing</font>**.
+- *2024.06*: 2 paper are accepted by **<font color="red">IJCV</font>**.
+- *2023.07*: 1 paper is accepted by **<font color="red">ICCV</font>** 2023 (**Oral**).
 
