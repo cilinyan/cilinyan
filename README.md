@@ -18,7 +18,7 @@ My research interests lie in the deep learning, computer vision, and multimodal.
 ### 🔥 News
 - *2025.11*: 1 paper is accepted by **<font color="red">AAAI</font>** 2026.
 - *2025.10*: 1 paper is accepted by **<font color="red">TCSVT</font>**.
-- *2025.07*: 1 paper is accepted by **<font color="red">RecSys</font>**  2025.
+- *2025.07*: 1 paper is accepted by **<font color="red">RecSys</font>** 2025.
 - *2025.06*: 1 paper is accepted by **<font color="red">ICCV</font>** 2025.
 - *2025.05*: 1 paper is accepted by **<font color="red">ACL</font>** 2025 (Main).
 - *2024.08*: 1 paper is accepted by **<font color="red">TGRS</font>**.
